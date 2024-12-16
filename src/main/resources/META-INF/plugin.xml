@@ -16,22 +16,22 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-        <p>Otimize o desenvolvimento de projetos Android com o Clean Arch Generator, um plugin eficiente que automatiza a criação da estrutura básica de pacotes seguindo os princípios da Clean Architecture.</p>
-        <p>Com poucos cliques, crie automaticamente os diretórios essenciais para organizar seu código de maneira limpa e escalável:</p>
+        <p>Optimize Android project development with the **Clean Arch Generator**, an efficient plugin that automates the creation of the basic package structure following Clean Architecture principles.</p>
+        <p>With just a few clicks, automatically create essential directories to organize your code in a clean and scalable way:</p>
 
         <ul>
-            <li><strong>Application</strong>: Camada responsável pela configuração e inicialização do projeto, como classes de inicialização e dependências globais.</li>
-            <li><strong>Data</strong>: Camada responsável pela implementação dos repositórios, fontes de dados e modelos de entidade.</li>
-            <li><strong>Domain</strong>: Contém os casos de uso e as entidades de domínio.</li>
-            <li><strong>Presentation</strong>: Abriga os componentes de interface do usuário, como ViewModels, Fragments e Activities.</li>
-            <li><strong>Utils</strong>: Espaço reservado para utilitários e helpers usados em todo o projeto.</li>
+            <li><strong>Application</strong>: Layer responsible for project configuration and initialization, such as startup classes and global dependencies.</li>
+            <li><strong>Data</strong>: Layer responsible for implementing repositories, data sources, and entity models.</li>
+            <li><strong>Domain</strong>: Contains use cases and domain entities.</li>
+            <li><strong>Presentation</strong>: Hosts user interface components such as ViewModels, Fragments, and Activities.</li>
+            <li><strong>Utils</strong>: Reserved space for utilities and helpers used throughout the project.</li>
         </ul>
 
-        <p><strong>Recursos</strong></p>
+        <p><strong>Features</strong></p>
         <ul>
-            <li>Integração direta com o menu de contexto do Android Studio.</li>
-            <li>Criação automática de pacotes dentro do diretório selecionado no Project Explorer.</li>
-            <li>Agilize a configuração inicial do projeto, permitindo que você se concentre no desenvolvimento das funcionalidades.</li>
+            <li>Direct integration with the Android Studio context menu.</li>
+            <li>Automatic package creation within the selected directory in the Project Explorer.</li>
+            <li>Streamline initial project setup, allowing you to focus on feature development.</li>
         </ul>
     ]]></description>
 
