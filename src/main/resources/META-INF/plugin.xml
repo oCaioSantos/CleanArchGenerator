@@ -7,7 +7,7 @@
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
     <name>Clean Arch Generator</name>
 
-    <version>1.0.2</version>
+    <version>1.0.3</version>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="caiohenrique214@hotmail.com" url="https://github.com/oCaioSantos">oCaioSantos</vendor>
@@ -16,7 +16,7 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-        <p>Optimize Android project development with the **Clean Arch Generator**, an efficient plugin that automates the creation of the basic package structure following Clean Architecture principles.</p>
+        <p>Optimize Android project development with the Clean Arch Generator, an efficient plugin that automates the creation of the basic package structure following Clean Architecture principles.</p>
         <p>With just a few clicks, automatically create essential directories to organize your code in a clean and scalable way:</p>
 
         <ul>

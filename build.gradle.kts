@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "ocaiosantos.com.github"
-version = "1.0.2"
+version = "1.0.3"
 
 repositories {
     mavenCentral()
@@ -31,8 +31,8 @@ tasks {
 
     patchPluginXml {
         sinceBuild.set("232")
-        untilBuild.set("242.*")
-        changeNotes.set("Melhorando o nome exibido na loja.")
+        untilBuild.set("")
+        changeNotes.set("Atualizando versão de IDE que suporta o plugin.")
     }
 
     signPlugin {
